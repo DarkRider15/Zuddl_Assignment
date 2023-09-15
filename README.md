@@ -1,5 +1,5 @@
 # Zuddl_Assignment
-Zuddle assignment for task board
+Zuddle assignment of task board
 <h1>Questions :</h1>
 <h3>How would your tables and apis change for the following scenarios. What tables and api endpoints would you add? Which tables and api endpoints would need to be updated?</h3>
 
